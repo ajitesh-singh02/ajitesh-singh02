@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajitesh-singh02
+- 👋 Hi, I’m Ajitesh
 - 👀 I’m interested in Programming, StandupComedy, Amazing Tech Discussions 
 - 🌱 I’m currently learning building scalable systems, writing clean code
 - 💞️ I’m looking to collaborate on anything amazing
